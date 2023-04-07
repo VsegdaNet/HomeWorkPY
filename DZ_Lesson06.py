@@ -2,11 +2,11 @@
 #       Задача 3
 
 
-# a1 = int(input('Введите число: '))
-# d = int(input('Введите число: '))
-# n = int(input('Введите число: '))
-# for i in range(n):
-#     print(a1 + i * d)
+a1 = int(input('Введите число: '))
+d = int(input('Введите число: '))
+n = int(input('Введите число: '))
+for i in range(n):
+    print(a1 + i * d)
 
 
 #       Задача 32
